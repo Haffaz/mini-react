@@ -1,0 +1,19 @@
+{
+  "name": "mini-react",
+  "version": "1.0.0",
+  "description": "mini react lib",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
